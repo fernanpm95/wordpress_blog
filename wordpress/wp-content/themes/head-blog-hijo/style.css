@@ -1,0 +1,29 @@
+/*
+Theme Name: Head Blog Hijo
+Author: Fernando Peñuela
+Description: Tema hijo de Head Blog para wordpress
+Template: head-blog
+Version: 0.1.0
+*/
+@import url('../head-blog/style.css');
+
+.site-branding-text {
+    background-color: rgba(0, 0, 0,0.5);
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.site-branding-text > h1 {
+    text-shadow: 4px 4px #333300;
+}
+
+article img {
+    padding: 1px;
+    border: 1px solid #dddddd;
+}
+
+.single-content {
+    text-align: justify;
+    text-indent: 5%;
+}

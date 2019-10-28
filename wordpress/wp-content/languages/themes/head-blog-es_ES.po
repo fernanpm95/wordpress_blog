@@ -1,0 +1,265 @@
+# Translation of Themes - Head Blog in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Head Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-02 16:38:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Head Blog\n"
+
+#. Description of the plugin/theme
+msgid "Head Blog is a minimalistic and fast blogging theme for WordPress. It supports custom header, logo or background, and it is easy to use even for WordPress beginners. Head Blog is SEO friendly, and WPML, translation and RTL ready. DEMO: https://headthemes.com/head-blog-demo/"
+msgstr "Head Blog es un tema para WordPress minimalista y para escribir rápido en tu blog. Es compatible con cabeceras, logos e imágenes de fondo personalizadas, y es fácil de utilizar incluso para principiantes de WordPress. Head Blog se lleva bien con el SEO, WPML y está preparado para traducción y RTL. DEMO: https://headthemes.com/head-blog-demo/"
+
+#. Theme Name of the plugin/theme
+msgid "Head Blog"
+msgstr "Head Blog"
+
+#: includes/widgets/recent-posts.php:19
+msgid "Displays your recent posts with thumbnail and date. Recommended use: in sidebar or footer"
+msgstr "Muestra tus entradas recientes con imagen en miniatura y fecha. Uso recomendado: en la barra lateral o el pie de página"
+
+#: includes/widgets/popular-posts.php:19
+msgid "Displays your popular posts with thumbnail and date. Recommended use: in sidebar or footer"
+msgstr "Muestra tus entradas populares con imagen en miniatura y fecha. Uso recomendado: en la barra lateral o el pie de página"
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr "Portada"
+
+#: lib/demo-preview.php:71
+msgid "Categories"
+msgstr "Categorías"
+
+#: lib/demo-preview.php:70
+msgid "Archives"
+msgstr "Archivos"
+
+#: lib/demo-preview.php:69
+msgid "Search"
+msgstr "Buscar"
+
+#: lib/dashboard.php:152
+msgid "Contact us"
+msgstr "Contacta con nosotros"
+
+#: lib/dashboard.php:150
+msgid "Having trouble? Need support?"
+msgstr "¿Tienes problemas? ¿Necesitas ayuda?"
+
+#. translators: %s theme name
+#: lib/dashboard.php:144
+msgid "%s Documentation"
+msgstr "Documentación de %s"
+
+#. translators: %s theme name
+#: lib/dashboard.php:137
+msgid "Need help in setting up and configuring %s? Please take a look at our documentation page."
+msgstr "¿Necesitas ayuda para montarlo y configurar %s? Por favor, échale un vistazo a nuestra página de documentación."
+
+#: lib/dashboard.php:133
+msgid "Theme documentation"
+msgstr "Documentación del tema"
+
+#: lib/dashboard.php:129
+msgid "Start customizing"
+msgstr "Comienza a personalizar"
+
+#. translators: %s theme name
+#: lib/dashboard.php:125
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to personalize your site."
+msgstr "%s da soporte al personalizador de temas para todos los ajustes del tema. Haz clic en \"Personalizador\" para personalizar tu sitio."
+
+#: lib/dashboard.php:121
+msgid "Theme Customizer"
+msgstr "Personalizador del tema"
+
+#. translators: %s theme name
+#: lib/dashboard.php:66
+msgid "Get started with %s"
+msgstr "Empieza con %s"
+
+#. translators: %1$s: theme name, %2$s link
+#: lib/dashboard.php:58
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr "¡Bienvenido! Gracias por elegir %1$s. Para sacarle todo el partido a todo lo que nuestro tema puede ofrecer, por favor, asegúrate de visitar nuestra <a href=\"%2$s\">página de bienvenida</a>"
+
+#. translators: %1$s: theme name, %2$s theme version
+#. translators: %1$s theme name, %2$s theme version
+#: lib/dashboard.php:51 lib/dashboard.php:107
+msgid "Welcome to %1$s - Version %2$s"
+msgstr "Bienvenido a %1$s - Versión %2$s"
+
+#: lib/dashboard.php:30
+msgid "Head Blog dashboard"
+msgstr "Escritorio de Head Blog"
+
+#: lib/dashboard.php:28
+msgid "Head Blog theme"
+msgstr "Tema Head Blog"
+
+#: lib/customizer/info.php:28
+msgid "documentation"
+msgstr "documentación"
+
+#. translators: %s: "documentation" string
+#: lib/customizer/info.php:28
+msgid "For step-by-step videos and text tutorials, see %1$s"
+msgstr "Para vídeos con el paso a paso y tutoriales en texto, mira %1$s"
+
+#: lib/customizer/info.php:25
+msgid "demos"
+msgstr "demos"
+
+#. translators: %s: "demos here" string
+#: lib/customizer/info.php:25
+msgid "You can use this theme to create a website like these %1$s"
+msgstr "Puedes usar este tema para crear un sitio web como este %1$s"
+
+#: lib/customizer/info.php:11
+msgid "Video Documentation & Demo"
+msgstr "Vídeo de documentación y demo"
+
+#: template-parts/template-part-postauthor.php:4
+msgid "About The Author"
+msgstr "Sobre el autor"
+
+#: search.php:13
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#: lib/wp_bootstrap_navwalker.php:206
+msgid "Add a menu"
+msgstr "Añade un menú"
+
+#: includes/widgets/recent-posts.php:96 lib/demo-preview.php:68
+msgid "Recent posts"
+msgstr "Entradas recientes"
+
+#: includes/widgets/recent-posts.php:22
+msgid "Head Blog: Recent posts"
+msgstr "Head Blog: Entradas recientes"
+
+#: includes/widgets/popular-posts.php:109 includes/widgets/recent-posts.php:107
+msgid "Number of posts:"
+msgstr "Número de entradas:"
+
+#: includes/widgets/popular-posts.php:103 includes/widgets/recent-posts.php:101
+msgid "Title:"
+msgstr "Título:"
+
+#: includes/widgets/popular-posts.php:98
+msgid "Popular posts"
+msgstr "Entradas populares"
+
+#: includes/widgets/popular-posts.php:22
+msgid "Head Blog: Popular posts"
+msgstr "Head Blog: Entradas populares"
+
+#: functions.php:312
+msgid "Comment on "
+msgstr "Comentar en"
+
+#: functions.php:310
+msgid "Off"
+msgstr "Desactivado"
+
+#: functions.php:290
+msgid "Theme: %1$s"
+msgstr "Tema: %1$s"
+
+#: functions.php:288
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: functions.php:288
+msgid "Proudly powered by %s"
+msgstr "Creado con %s"
+
+#: functions.php:266
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: functions.php:262
+msgid "Category"
+msgstr "Categoría"
+
+#: functions.php:218
+msgid "Footer Section"
+msgstr "Sección del pie de página"
+
+#: functions.php:208
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: functions.php:198
+msgid "Section before content"
+msgstr "Sección antes del contenido"
+
+#: functions.php:121
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:20
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: content.php:31
+msgid "Read More"
+msgstr "Leer más"
+
+#: content-single.php:16 content.php:23
+msgid "By"
+msgstr "Por"
+
+#: content-none.php:14
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Quizá buscar pueda ayudar."
+
+#: content-none.php:9
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincide con tus términos de búsqueda. Por favor, prueba de nuevo con algunas palabras diferentes."
+
+#: content-none.php:5
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: content-none.php:2
+msgid "Nothing Found"
+msgstr "No se encontró nada"
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:15
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s comentario"
+msgstr[1] "%1$s comentarios"
+
+#: 404.php:12
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no hay nada en este lugar. ¿Y si pruebas una búsqueda?"
+
+#: 404.php:10
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! Esta página no se encuentra."
+
+#. Author URI of the plugin/theme
+msgid "https://headthemes.com/"
+msgstr "https://headthemes.com/"
+
+#. Author of the plugin/theme
+msgid "HeadThemes"
+msgstr "HeadThemes"
+
+#. Theme URI of the plugin/theme
+msgid "https://headthemes.com/theme/head-blog/"
+msgstr "https://headthemes.com/theme/head-blog/"

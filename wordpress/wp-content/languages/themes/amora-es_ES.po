@@ -1,0 +1,379 @@
+# Translation of Themes - Amora in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Amora package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-21 07:41:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Amora\n"
+
+#. Theme Name of the plugin/theme
+msgid "Amora"
+msgstr "Amora"
+
+#. Description of the plugin/theme
+msgid "A simple WordPress theme for your Blog. Based on the Mobile first Bootstrap framework, this theme is beautifully responsive. Featured Image Support, Social Icons support and a Responsive Slider are some of the cool features of the theme."
+msgstr "Un tema simple de WordPress para tu Blog. Basado en el framework movil Bootstrap, este tema es adaptable (responsive). Con imagen destacada, iconos sociales y un slider adaptable entre otras características interesantes del tema."
+
+#: inc/template-tags.php:106 inc/template-tags.php:112
+msgid "%1$s"
+msgstr "%1$s"
+
+#: functions.php:143
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr "on"
+
+#: content-archive.php:22
+msgid "READ MORE"
+msgstr "LEER MÁS"
+
+#: inc/template-tags.php:82
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title"
+msgstr "%título"
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "%title"
+msgstr "%título"
+
+#: sidebar.php:23
+msgid "Meta"
+msgstr "Meta"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#: inc/template-tags.php:87
+msgctxt "post author"
+msgid "%s"
+msgstr "por %s"
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Navegación de entradas"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Entradas más nuevas <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Entradas más antiguas"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Ir a las entradas"
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr "Página %s"
+
+#: inc/customizer.php:15
+msgid "Background may only be visible on wide screens."
+msgstr "El fondo solo será visible en pantallas anchas."
+
+#: home.php:17
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: inc/customizer.php:430
+msgid "Slide 3"
+msgstr "Diapositiva 3"
+
+#: inc/customizer.php:391
+msgid "Slide 2"
+msgstr "Diapositiva 2"
+
+#: functions.php:145
+msgctxt "Overpass font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/customizer.php:383 inc/customizer.php:422 inc/customizer.php:461
+msgid "Description"
+msgstr "Descripción"
+
+#: functions.php:124
+msgid "Footer 4"
+msgstr "Pie de página 4"
+
+#: functions.php:115
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#: inc/customizer.php:111
+msgid "Manage the Social Icon Settings of your site."
+msgstr "Gestiona los ajustes de los iconos sociales de tu sitio."
+
+#: inc/customizer.php:110
+msgid "Social Settings"
+msgstr "Social Settings"
+
+#: inc/customizer.php:100
+msgid "OR Logo Upload"
+msgstr "O sube el logo"
+
+#: inc/customizer.php:127
+msgid "Enable Social Icons"
+msgstr "Activar iconos sociales"
+
+#: inc/customizer.php:219
+msgid "Instagram URL"
+msgstr "URL de Instagram"
+
+#: inc/customizer.php:202
+msgid "Google Plus URL"
+msgstr "URL de Google Plus"
+
+#: inc/customizer.php:185
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: inc/customizer.php:168
+msgid "Facebook URL"
+msgstr "URL de Facebook"
+
+#: inc/customizer.php:352
+msgid "Slide 1"
+msgstr "Diapositiva 1"
+
+#: inc/customizer.php:327 inc/customizer.php:344
+msgid "Enable Slider"
+msgstr "Enable Slider"
+
+#: inc/customizer.php:320
+msgid "Slider Settings"
+msgstr "Slider Settings"
+
+#: inc/customizer.php:287
+msgid "Your E-Mail Info"
+msgstr "Tu información de correo electrónico"
+
+#: inc/customizer.php:270
+msgid "Vimeo URL"
+msgstr "URL de Vimeo"
+
+#: inc/customizer.php:253
+msgid "RSS URL"
+msgstr "URL del RSS"
+
+#: inc/customizer.php:236
+msgid "Pinterest URL"
+msgstr "URL de Pinterest"
+
+#: functions.php:106
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: functions.php:97
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: functions.php:88
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: footer.php:47
+msgid "Theme %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: functions.php:49 header.php:60
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: footer.php:45
+msgid "Proudly powered by %s"
+msgstr "Creado con %s"
+
+#: footer.php:45
+msgid "http://wordpress.org/"
+msgstr "http://es.wordpress.org/"
+
+#: content.php:22
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Sigue leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:55 inc/template-tags.php:118
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: content.php:55 inc/template-tags.php:118
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: content.php:55 inc/template-tags.php:118
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: content.php:49
+msgid "Tagged %1$s"
+msgstr "Etiquetado con %1$s"
+
+#: content.php:39
+msgid "Posted in %1$s"
+msgstr "Publicada en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: content.php:35 content.php:45 inc/template-tags.php:104
+#: inc/template-tags.php:110
+msgid ", "
+msgstr ", "
+
+#: content-page.php:24 content.php:58 inc/template-tags.php:122
+msgid "Edit"
+msgstr "Editar"
+
+#: content-archive.php:25 content-page.php:18 content-single.php:24
+#: content.php:25
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás intentando localizar. Es posible que te ayude buscarlo."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento pero no hay nada que se ajuste a tus criterios de búsqueda. Por favor, inténtalo de nuevo con palabras claves distintas."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:37 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios más recientes &rarr;"
+
+#: comments.php:36 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios más antiguos"
+
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#: archive.php:66 sidebar.php:16
+msgid "Archives"
+msgstr "Archivo"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Chats"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audios"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "Estados"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Enlaces"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Citas"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Vídeos"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Imágenes"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galerías"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Minientradas"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Año: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Día: %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Trata de buscar en los archivos mensuales. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Categorías más usadas"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se encontró nada aquí. ¿Quieres probar uno de los enlaces de abajo o una búsqueda?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! Está página no se encuentra."
+
+#. Theme URI of the plugin/theme
+msgid "http://www.inkhive.com/product/amora"
+msgstr "http://www.inkhive.com/product/amora"
+
+#. Author of the plugin/theme
+msgid "Divjot Singh"
+msgstr "Divjot Singh"
+
+#. Author URI of the plugin/theme
+msgid "http://www.divjot.co"
+msgstr "http://www.divjot.co"
