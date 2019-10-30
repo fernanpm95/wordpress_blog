@@ -18,9 +18,9 @@ Contruido con:
 	Wordpress: creación del sitio web
   Phpmyadmin: creación y gestión de la base de datos empleada
   
-  PHP: creación y modificación de contenido de la web
-  CSS: modificación de elementos gráficos de la web
-  SQL: creación de la base de datos
+  PHP - Creación y modificación de contenido de la web
+  CSS - Modificación de elementos gráficos de la web
+  SQL - Creación de la base de datos
 
 
 Autor: 
